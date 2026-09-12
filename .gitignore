@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Local reference notebooks
+4_hateslop/
+
+# Instructor solutions
+/solutions/
+
+# OS / editor generated files
+.DS_Store
