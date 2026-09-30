@@ -1,0 +1,129 @@
+[
+  {
+    "day_ago": 1,
+    "exercises": [
+      {
+        "exercise": "스미스 머신 벤치 프레스",
+        "weight_kg": [100, 90, 80], 
+        "reps_per_set": [6, 8, 8],
+        "total_sets": [2, 2, 2],
+        "rpe": [9, 9, 9]
+      },
+      {
+        "exercise": "덤벨 체스트 프레스",
+        "weight_kg": [30, 28], 
+        "reps_per_set": [8, 8],
+        "total_sets": [2, 2],
+        "rpe": [9, 9]
+      },
+      {
+        "exercise": "인클라인 체스트 프레스",
+        "weight_kg": 70,
+        "reps_per_set": 8,
+        "total_sets": 4,
+        "rpe": 9
+      },
+      {
+        "exercise": "인클라인 머신 체스트 프레스",
+        "weight_kg": 70,
+        "reps_per_set": 8,
+        "total_sets": 4,
+        "rpe": 9
+      }
+    ]
+  },
+  {
+    "day_ago": 2,
+    "exercises": [
+      {
+        "exercise": "풀업",
+        "weight_kg": 60, 
+        "reps_per_set": 8,
+        "total_sets": 3,
+        "rpe": 5
+      },
+      {
+        "exercise": "티바로우",
+        "weight_kg": [57.5, 40], 
+        "reps_per_set": [8, 10],
+        "total_sets": [3, 1],
+        "rpe": [9, 7.5]
+      },
+      {
+        "exercise": "렛풀다운",
+        "weight_kg": 70,
+        "reps_per_set": 8,
+        "total_sets": 4,
+        "rpe": 9
+      },
+      {
+        "exercise": "원암 하이로우",
+        "weight_kg": 30,
+        "reps_per_set": 8,
+        "total_sets": 3,
+        "rpe": 9
+      },
+      {
+        "exercise": "파나타 머신 하이로우",
+        "weight_kg": 70,
+        "reps_per_set": 8,
+        "total_sets": 3,
+        "rpe": 9
+      }
+    ]
+  },
+  {
+    "day_ago": 3,
+    "exercises": [
+      {
+        "exercise": "오버헤드 프레스",
+        "weight_kg": [50,40], 
+        "reps_per_set": [8,10],
+        "total_sets": [4,1],
+        "rpe": [9,8]
+      },
+      {
+        "exercise": "머신 숄더 프레스",
+        "weight_kg": 90, 
+        "reps_per_set": 8,
+        "total_sets": 4,
+        "rpe": 9
+      },
+      {
+        "exercise": "스탱딩 숄더 프레스",
+        "weight_kg": 30,
+        "reps_per_set": 40,
+        "total_sets": 3,
+        "rpe": 9
+      },
+      {
+        "exercise": "덤벨 사이드레터럴 레이즈",
+        "weight_kg": 5,
+        "reps_per_set": 40,
+        "total_sets": 3,
+        "rpe": 9
+      },
+      {
+        "exercise": "원암 머신 사이드레터럴 레이즈",
+        "weight_kg": 5,
+        "reps_per_set": 30,
+        "total_sets": 3,
+        "rpe": 9
+      },
+      {
+        "exercise": "페이스 풀",
+        "weight_kg": 40,
+        "reps_per_set": 10,
+        "total_sets": 4,
+        "rpe": 8
+      },
+      {
+        "exercise": "덤벨 벤트오버 레터럴 레이즈",
+        "weight_kg": 2,
+        "reps_per_set": 45,
+        "total_sets": 2,
+        "rpe": 8
+      }
+    ]
+  }
+]
