@@ -114,16 +114,16 @@ cp .env.example .env   # OPENAI_API_KEY 입력
 
 ```bash
 # 바로 실행 (15:40 이전이면 직전 거래일 기준)
-python assignment/bjay/agent.py
+python assignment/jh-0-1/agent.py
 
 # 15:40까지 기다렸다가 오늘 기준으로 실행
-python assignment/bjay/agent.py --wait
+python assignment/jh-0-1/agent.py --wait
 
 # Harness 동작 확인: 예산을 일부러 작게
-python assignment/bjay/agent.py --max-tool-calls 4
+python assignment/jh-0-1/agent.py --max-tool-calls 4
 ```
 
-결과는 `assignment/bjay/outputs/`에 리포트(`top5_YYYYMMDD.md`)와 Trace(`trace_*.jsonl`)로 저장됩니다.
+결과는 `assignment/jh-0-1/outputs/`에 리포트(`top5_YYYYMMDD.md`)와 Trace(`trace_*.jsonl`)로 저장됩니다.
 
 ## 실행 예시
 
